@@ -1,0 +1,17 @@
+{
+  "name": "KiShad",
+  "version": "0.0.0",
+  "description": "KiShad",
+  "main": "app.js",
+  "author": {
+    "name": "Shadrach",
+    "email": ""
+  },
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "3.4.4",
+    "jade": "*",
+    "mysql": "^2.7.0",
+    "stylus": "*"
+  }
+}
