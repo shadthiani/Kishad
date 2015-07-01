@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bootstrapping", "bootstrapping\bootstrapping.pyproj", "{04EE83D8-1129-4DFA-B48B-CD286C956D92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bootstrapDemos", "bootstrapDemos\bootstrapDemos.csproj", "{4D80A4A1-F38D-45F2-977D-3D3084549865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04EE83D8-1129-4DFA-B48B-CD286C956D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EE83D8-1129-4DFA-B48B-CD286C956D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EE83D8-1129-4DFA-B48B-CD286C956D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EE83D8-1129-4DFA-B48B-CD286C956D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D80A4A1-F38D-45F2-977D-3D3084549865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D80A4A1-F38D-45F2-977D-3D3084549865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D80A4A1-F38D-45F2-977D-3D3084549865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D80A4A1-F38D-45F2-977D-3D3084549865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
